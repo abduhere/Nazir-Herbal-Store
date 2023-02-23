@@ -1,0 +1,6 @@
+.navbar to .admin.navbar
+.nav-tabs to .nav-tabs2
+a to a.admin
+btn-link to btn2-link
+
+btn to btn2 -> did not change, minor difference
